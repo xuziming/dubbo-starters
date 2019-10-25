@@ -131,7 +131,7 @@
 
 		<dependency>
 			<groupId>com.simon.credit</groupId>
-			<artifactId>common-toolkit</artifactId>
+			<artifactId>common-toolkit-core</artifactId>
 		</dependency>
 
 		<dependency>
